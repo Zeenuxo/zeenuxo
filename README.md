@@ -56,4 +56,4 @@ Hi There, I'm A Virli, Friendly Neighbourhood Programmer From United Kingdom.
 
 ## Stats
 
-//Stats](https://github-readme-stats.vercel.app/api?username=TheHamkerCat&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&layout=compact&theme=github_dark)
+Stats](https://github-readme-stats.vercel.app/api?username=TheHamkerCat&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&layout=compact&theme=github_dark)
