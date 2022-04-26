@@ -9,7 +9,7 @@ Hi There, I'm A Virli, Friendly Neighbourhood Programmer From United Kingdom.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : C, Python
-- :cat: Fun fact : I like tge speedforce
+- :cat: Fun fact : I like the speedforce
 
 ## Where to find me
 
