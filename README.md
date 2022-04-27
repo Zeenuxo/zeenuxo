@@ -1,8 +1,10 @@
 ![Banner](https://github.com/Zeenuxo/zeenuxo/blob/main/banner.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=0e75b6&style=flat" alt="zeenuxo" /> </p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/abhisekh-v-a5020b238)
+
 
 <img align="right" alt="GIF" width="250" height="250"
  src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png">
@@ -10,7 +12,7 @@
 
 
 ## About Me:
-A Friendly neighbourhood frontend developer from United Kingdom.
+A Friendly neighbourhood coder from United Kingdom.
 
 - :computer: I'm currently working on a "Secret" project.
 - :books: I'm currently learning: **C, Python, Azure**
@@ -18,18 +20,13 @@ A Friendly neighbourhood frontend developer from United Kingdom.
 - :atom: Fun fact : I like Science (And The Speedforce!)
 
 
-## Where to find me
-
+## Connect with me:
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeenuxo)
 
 
 ## Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=orange)
-![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -60,6 +57,32 @@ A Friendly neighbourhood frontend developer from United Kingdom.
 
 
 ## 📈 My GitHb Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&locale=en" alt="zeenuxo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
+
+
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeenuxo" alt="zeenuxo" /></a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/@avirli123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@avirli123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hello233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hello233" height="30" width="40" /></a>
+</p>
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/@helloavirli"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@helloavirli" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
 
