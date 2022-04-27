@@ -2,8 +2,15 @@
 
 <p align="left" alt="Identicon"> 
 <img src="https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=0e75b6&style=flat" alt="zeenuxo" /> 
+<img src="https://img.shields.io/bountysource/team/zeenuxo/activity?label=Bounty%20Count&style=plastic"/></p>
+
+
+<p align="centre" alt="Identicon"> 
 <img src="https://img.shields.io/github/followers/zeenuxo?label=Follow%20Me&style=plastic"/> 
-<img src="https://img.shields.io/bountysource/team/zeenuxo/activity?label=Bounty%20Count&style=plastic"/> </p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/..............-v-a5020b238)</p>
+
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=vue-dark" alt="zeenuxo" /></p>
 
 <img align="right" alt="GIF" width="250" height="250"
  src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png">
@@ -18,18 +25,10 @@ A Friendly neighbourhood coder from United Kingdom.
 - :mailbox: Conatct me: **....com**
 - :atom: Fun fact : I like Science (And The Speedforce!)
 
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=vue" alt="zeenuxo" /></p>
 
 
 
-## Connect with me:
-<p align="left">
  
- 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/..............-v-a5020b238)
-
-
 
 
 ## Languages
@@ -45,8 +44,6 @@ A Friendly neighbourhood coder from United Kingdom.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 
 
@@ -67,6 +64,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 ## 🚧 Support my work 🥺  I love Coffee! :coffee
 
-<a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
+<a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
