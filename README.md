@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Abhi Virli</h1>
-<h3 align="center">A passionate frontend coder from United Kingdom</h3>
+<h3 align="center">A Friendly neighbourhood frontend developer from United Kingdom</h3>
 
 <img align="right" alt="GIF" width="400" 
  src="https://img.etimg.com/thumb/imgsize-638053,msid-84146056/.jpg">
 
 ## Info
 
-Hi There, I'm A Virli, Friendly Neighbourhood Programmer From United Kingdom.
 
 - :computer: I'm currently working on a "Secret" project.
-- :school: I'm currently learning : C, Python
+- :school: I'm currently learning: **C, Python, Azure**
+- :mailbox: Conatct me: **a.virli@hotmail.com**
 - :atom: Fun fact : I like Science (And The Speedforce!)
 
 ## Where to find me
@@ -31,7 +31,6 @@ Hi There, I'm A Virli, Friendly Neighbourhood Programmer From United Kingdom.
 
 
 ## OS & Tools
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
@@ -46,22 +45,18 @@ Hi There, I'm A Virli, Friendly Neighbourhood Programmer From United Kingdom.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+
+## 🚧 If you like what I do, maybe consider buying me a Coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 my github stats
+## 📈 My GitHb Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
 
-## Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&locale=en" alt="zeenuxo" /></p>
 
-[Stats](https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&layout=compact&theme=github_dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
