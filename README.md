@@ -26,7 +26,7 @@ A Friendly neighbourhood coder from United Kingdom.
  
  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/abhisekh-v-a5020b238)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/..............-v-a5020b238)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeenuxo)
  
@@ -69,6 +69,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 ## 🚧 Support (🥺 I love Coffee! :coffee)
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="1000" ></a>
+<a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="1000" ></a>
 
 
