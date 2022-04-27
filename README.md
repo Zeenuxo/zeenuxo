@@ -8,6 +8,7 @@
 <img align="right" alt="GIF" width="250" height="250"
  src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png">
  
+ 
 
 ## About Me:
 A Friendly neighbourhood coder from United Kingdom.
@@ -18,20 +19,21 @@ A Friendly neighbourhood coder from United Kingdom.
 - :atom: Fun fact : I like Science (And The Speedforce!)
 
 
+
 ## Connect with me:
 <p align="left">
  
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
+ <h3 align="left">Connect with me:</h3>
+ [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
 
+<h3 align="centre"</h3>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/abhisekh-v-a5020b238)
 
+<h3 align="right"</h3>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeenuxo)
+ 
 
-<h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/@avirli123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@avirli123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hello233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hello233" height="30" width="40" /></a>
-</p>
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,24 +57,13 @@ A Friendly neighbourhood coder from United Kingdom.
 ## 📈 My GitHb Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&locale=en" alt="zeenuxo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
-
-
-<p><imag align="left" srch="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zeenuxo}&theme=vue" alt="zeenuxo"/></p>
+<p><imag align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zeenuxo}&theme=vue" alt="zeenuxo"/></p>
 
 
 ## :trophy: Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeenuxo" alt="zeenuxo" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/@avirli123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@avirli123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hello233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hello233" height="30" width="40" /></a>
-</p>
 
 
 
