@@ -1,19 +1,22 @@
-![](https://github.com/Zeenuxo/zeenuxo/blob/main/banner.png)
+![Banner](https://github.com/Zeenuxo/zeenuxo/blob/main/banner.png)
 
-<h3 align="center">A Friendly neighbourhood frontend developer from United Kingdom</h3>
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
-<img align="right" alt="GIF" width="400" 
+<img align="right" alt="GIF" width="500" height="500"
  src="https://img.etimg.com/thumb/imgsize-638053,msid-84146056/.jpg">
  
 
 
-## Info
-
+## About Me:
+A Friendly neighbourhood frontend developer from United Kingdom.
 
 - :computer: I'm currently working on a "Secret" project.
 - :school: I'm currently learning: **C, Python, Azure**
 - :mailbox: Conatct me: **a.virli@hotmail.com**
 - :atom: Fun fact : I like Science (And The Speedforce!)
+
 
 ## Where to find me
 
@@ -31,11 +34,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## Badges
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
 
 ## OS & Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
