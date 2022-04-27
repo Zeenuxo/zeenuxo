@@ -18,18 +18,17 @@ A Friendly neighbourhood coder from United Kingdom.
 - :mailbox: Conatct me: **....com**
 - :atom: Fun fact : I like Science (And The Speedforce!)
 
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=vue" alt="zeenuxo" /></p>
+
 
 
 ## Connect with me:
 <p align="left">
  
  
- [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
-
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/..............-v-a5020b238)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeenuxo)
- 
 
 
 
@@ -42,9 +41,8 @@ A Friendly neighbourhood coder from United Kingdom.
 
 
 ## OS & Tools
-![Ubuntu](https://ig
-
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -54,10 +52,10 @@ A Friendly neighbourhood coder from United Kingdom.
 
 ## 📈 My GitHb Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&locale=en" alt="zeenuxo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=vue" alt="zeenuxo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en" alt="zeenuxo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en" alt="zeenuxo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&theme=vue-dark" alt="zeenuxo" /></p>
+
 
 
 ## :trophy: Trophies
