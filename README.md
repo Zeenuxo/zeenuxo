@@ -43,14 +43,12 @@ A Friendly neighbourhood coder from United Kingdom.
 
 ## OS & Tools
 ![Ubuntu](https://ig
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🚧 If you like what I do, maybe consider buying me a Coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
@@ -63,12 +61,10 @@ A Friendly neighbourhood coder from United Kingdom.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zeenuxo}&theme=vue
 
 
-
-
-
+## :trophy: Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeenuxo" alt="zeenuxo" /></a> </p>
 
 
@@ -80,12 +76,9 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/@helloavirli"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@helloavirli" /></a></p><br><br>
+
+## 🚧 Support (🥺 I love Coffee! :coffee)
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="1000" ></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&locale=en" alt="zeenuxo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
