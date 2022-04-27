@@ -28,7 +28,7 @@ A Friendly neighbourhood coder from United Kingdom.
 
  
 ## Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&themevue-dark" alt="zeenuxo")
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en" alt="zeenuxo" /></p>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,7 @@ A Friendly neighbourhood coder from United Kingdom.
 
 ## 📈 My GitHb Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en" alt="zeenuxo" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en" alt="zeenuxo" /></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&theme=vue-dark" alt="zeenuxo" /></p>
 
 
