@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
-<img align="right" alt="GIF" width="500" height="500"
+<img align="right" alt="GIF" width="300" height="300"
  src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png">
  
 
