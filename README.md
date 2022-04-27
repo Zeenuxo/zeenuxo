@@ -23,13 +23,11 @@ A Friendly neighbourhood coder from United Kingdom.
 ## Connect with me:
 <p align="left">
  
- <h3 align="left">Connect with me:</h3>
+ 
  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zeenuxo)
 
-<h3 align="centre"</h3>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/abhisekh-v-a5020b238)
 
-<h3 align="right"</h3>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeenuxo)
  
 
