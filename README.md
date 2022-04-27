@@ -63,6 +63,7 @@ A Friendly neighbourhood coder from United Kingdom.
 ## :trophy: Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeenuxo" alt="zeenuxo" /></a> </p>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 
 
