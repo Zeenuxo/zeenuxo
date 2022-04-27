@@ -1,8 +1,13 @@
+![](https://github.com/Zeenuxo/zeenuxo/blob/main/banner.png)
+
+
 <h1 align="center">Hi, I'm Abhi Virli</h1>
 <h3 align="center">A Friendly neighbourhood frontend developer from United Kingdom</h3>
 
 <img align="right" alt="GIF" width="400" 
  src="https://img.etimg.com/thumb/imgsize-638053,msid-84146056/.jpg">
+ 
+
 
 ## Info
 
