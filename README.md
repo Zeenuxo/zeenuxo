@@ -2,14 +2,13 @@
 
 <p align="left" alt="Identicon"> 
 <img src="https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=0e75b6&style=flat" alt="zeenuxo" /> 
-<img src="https://img.shields.io/bountysource/team/zeenuxo/activity?label=Bounty%20Count&style=plastic"/></p>
-
+<img src="https://img.shields.io/bountysource/team/zeenuxo/activity?label=Bounty%20Count&style=plastic"/>
 <img src="https://img.shields.io/github/followers/zeenuxo?label=Follow%20Me&style=plastic"/> 
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/..............-v-a5020b238)</p>
 
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=vue-dark" alt="zeenuxo" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=tokyonight)
+
 
 <img align="right" alt="GIF" width="250" height="250"
  src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png">
