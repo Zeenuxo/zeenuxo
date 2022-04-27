@@ -61,7 +61,7 @@ A Friendly neighbourhood coder from United Kingdom.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zeenuxo}&theme=vue
+<p><imag align="left" srch="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zeenuxo}&theme=vue" alt="zeenuxo"/></p>
 
 
 ## :trophy: Trophies
