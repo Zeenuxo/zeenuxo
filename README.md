@@ -57,7 +57,7 @@ A Friendly neighbourhood coder from United Kingdom.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&show_icons=true&locale=en&layout=compact" alt="zeenuxo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&show_icons=true&locale=en" alt="zeenuxo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&" alt="zeenuxo" /></p>
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zeenuxo}&theme=vue" alt="zeenuxo" /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=vue" alt="zeenuxo" /></p>
 
 
 ## :trophy: Trophies
