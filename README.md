@@ -5,7 +5,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 <img align="right" alt="GIF" width="500" height="500"
- src="https://img.etimg.com/thumb/imgsize-638053,msid-84146056/.jpg">
+ src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png">
  
 
 
