@@ -69,6 +69,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 ## 🚧 Support (🥺 I love Coffee! :coffee)
 
-<a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="1000" ></a>
+<a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
 
 
