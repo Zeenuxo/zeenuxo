@@ -13,7 +13,7 @@
 A Friendly neighbourhood frontend developer from United Kingdom.
 
 - :computer: I'm currently working on a "Secret" project.
-- :school: I'm currently learning: **C, Python, Azure**
+- :books: I'm currently learning: **C, Python, Azure**
 - :mailbox: Conatct me: **a.virli@hotmail.com**
 - :atom: Fun fact : I like Science (And The Speedforce!)
 
