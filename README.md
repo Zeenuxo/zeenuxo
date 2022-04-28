@@ -1,73 +1,53 @@
-<img alt="banner" width="1680" height"200"
-src="https://github.com/Zeenuxo/zeenuxo/blob/main/banner.png"/>
+<img alt="banner" src="https://github.com/Zeenuxo/zeenuxo/blob/main/banner.svg"/>
 
+---
 
-<p alt="counters" align="left">
-  
-<img src="https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic"/>
-<img src="https://img.shields.io/bountysource/team/zeenuxo/activity?color=48d06d&label=Bounty%20Count&style=plastic"/>
-<img src="https://img.shields.io/github/followers/zeenuxo?color=48d06d&label=Follow%20Me&style=plastic"/>
-<img src="https://img.shields.io/twitter/url?color=48d06d&label=LinkedIn&style=plastic&url=https%3A%2F%2Flinkedin.com%2Fin%2F..............-v-a5020b238"/>
-
+<p alt="badges" align="left">
+ <img src="https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic"/>
+ <img src="https://img.shields.io/bountysource/team/zeenuxo/activity?color=48d06d&label=Bounty%20Count&style=plastic"/>
+ <img src="https://img.shields.io/github/followers/zeenuxo?color=48d06d&label=Follow%20Me&style=plastic"/>
+ <img src="https://img.shields.io/twitter/url?color=48d06d&label=LinkedIn&style=plastic&url=https%3A%2F%2Flinkedin.com%2Fin%2F..............-v-a5020b238"/>
 </p>
 
 
-##
-<p>
-  
-<img alt="graph" aligh="left"
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeenuxo&theme=tokyonight"/>
+### :technologist: `About Me`
 
-<img alt="coder_img" align="right" width="250" height="250"
-src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.png"/>
+ - :atom: `A Friendly neighbourhood coder from United Kingdom.`
+ - :crystal_ball: `I'm currently working on a "Secret" project.`
+ - :abacus: `I'm currently learning: C, Python, Azure, AWS`
+ - :postbox: `Contact: **zeenuxo....@.com**`
+ - :zap: `Speedforce is real!` 
 
-</p>
+---
 
+### :fire: `Languages`
 
-
-## `About Me`
-<p alt="facts" align="left">
-  
-- ```A Friendly neighbourhood coder from United Kingdom.
-- :computer: I'm currently working on a "Secret" project.
-- :books: I'm currently learning: C, Python, Azure, AWS
-- :: Conatct me: **zeenuxo....@.com**
-- :atom: Fun fact : I like Science (And The Speedforce!)```
-
-</p>
-
-
-
-
-## `Languages`
-<p align="left" alt="languages">
-  
-<img alt="lang_stat" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en"/>
-<img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit"/>
-<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
-
-
-
-
-## 📈 `My GitHub Stats`
+- Currently I'm learning C, Python, and I will start Java after that. 
+- Interested in Cloud computing. Attending Microsoft Azure, Oracle, and AWS courses.
+- Interested in learning about Linux.
 
 <p>
-  
-<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&show_icons=true&locale=en"/>
-<img alt="strek" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenuxo&theme=vue-dark"/>
-
+ <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=48d06d" />
+ <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d" />
+ <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=48d06d" />
+ <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white&color=48d06d" />
 </p>
 
+<a href="https://github.com/Zeenuxo/zeenuxo">
+  <img alt="languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&hide=java,html,tex&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3" />
+</a>
+
+---
+### :chart: `My Stats`
+![stat](https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3)
 
 
+---
 
-## 🚧 Support my work 🥺  I love Coffee! ☕
-<p alt="Coffee love" width="150" height="50" >
+### :construction: `I love Coffee!`
 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" href="https://www.buymeacoffee.com/..." target="_blank" />
+If, E = MC.2 <br>
+Energy = Milk x Coffee.2 
 
-</p>
+E in 1 Cup.[V = pi.r.2] = :)
+
