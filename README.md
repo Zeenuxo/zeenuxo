@@ -1,53 +1,55 @@
 <img alt="banner" src="https://github.com/Zeenuxo/zeenuxo/blob/main/banner.svg"/>
 
----
+![views](https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic)
+![follow](https://img.shields.io/github/followers/zeenuxo?color=48d06d&label=Follow%20Me&style=plastic)
+![linkedin](https://img.shields.io/twitter/url?color=48d06d&label=LinkedIn&style=plastic&url=https%3A%2F%2Flinkedin.com%2Fin%2F.....-v-a5020b238)
+![bounty](https://img.shields.io/bountysource/team/zeenuxo/activity?color=48d06d&label=Bounty%20Count&style=plastic)
 
-<p alt="badges" align="left">
- <img src="https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic"/>
- <img src="https://img.shields.io/bountysource/team/zeenuxo/activity?color=48d06d&label=Bounty%20Count&style=plastic"/>
- <img src="https://img.shields.io/github/followers/zeenuxo?color=48d06d&label=Follow%20Me&style=plastic"/>
- <img src="https://img.shields.io/twitter/url?color=48d06d&label=LinkedIn&style=plastic&url=https%3A%2F%2Flinkedin.com%2Fin%2F..............-v-a5020b238"/>
-</p>
 
 
 ### :technologist: `About Me`
 
- - :atom: `A Friendly neighbourhood coder from United Kingdom.`
- - :crystal_ball: `I'm currently working on a "Secret" project.`
- - :abacus: `I'm currently learning: C, Python, Azure, AWS`
- - :postbox: `Contact: **zeenuxo....@.com**`
- - :zap: `Speedforce is real!` 
+ :alien:      &thinsp;  A Friendly neighbourhood coder from United Kingdom.  <br>
+ :ninja:      &thinsp;  I'm currently working on a "Secret" project.         <br>
+ :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
+ :postbox:    &thinsp;  You can reach me on **zeenuxo....@.com**             <br>
+ :zap:        &thinsp;  Speed-Force is real! 
+ 
+ 
+ ---
 
----
 
-### :fire: `Languages`
+### :fire: `Languages & Tech` 
 
-- Currently I'm learning C, Python, and I will start Java after that. 
-- Interested in Cloud computing. Attending Microsoft Azure, Oracle, and AWS courses.
-- Interested in learning about Linux.
+:zap:    &thinsp;   Learning about C, Python, and Java after that.                      <br>
+:zap:    &thinsp;   Preparing for Microsoft Azure, Oracle, and AWS via webinars & VMs   <br>
+:zap:    &thinsp;   Reading about Linux, Cloud Computing, AI                            <br>
 
-<p>
- <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=48d06d" />
- <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d" />
- <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=48d06d" />
- <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white&color=48d06d" />
-</p>
 
-<a href="https://github.com/Zeenuxo/zeenuxo">
-  <img alt="languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&hide=java,html,tex&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3" />
-</a>
-
----
-### :chart: `My Stats`
-![stat](https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3)
+:atom:   &thinsp; &thinsp;  ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d) 
+                            ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=48d06d") &nbsp;&nbsp;
+                            ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=48d06d) 
+                            ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white&color=48d06d)
 
 
 ---
+
+
+
+### :chart_with_upwards_trend: `My Stats`
+
+![stat](https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3) 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&hide=java,html,tex&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3")
+
+
+---
+
 
 ### :construction: `I love Coffee!`
 
-If, E = MC.2 <br>
-Energy = Milk x Coffee.2 
-
-E in 1 Cup.[V = pi.r.2] = :)
+:heavy_dollar_sign:  &thinsp; `If, E = Energy, M = Milk, C = Coffee`        <br>
+:heavy_dollar_sign:  &thinsp; `E = M.C.2`                   <br>
+:heavy_dollar_sign:  &thinsp; `E = Milk x Coffee.2`         <br>
+:heavy_dollar_sign:  &thinsp; `E in 1 Cup x (V = pi.r.2)`   <br>
+:heavy_dollar_sign:  &thinsp;  `:)`
 
