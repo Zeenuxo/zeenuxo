@@ -41,12 +41,16 @@
 
 <details>
 
-<summary>Click here to view E = MC.2</summary>
+<summary>Click here to view A Secret</summary>
 
-:heavy_dollar_sign:  &thinsp; `If, E = Energy, M = Milk, C = Coffee`        <br>
-:heavy_dollar_sign:  &thinsp; `E = M.C.2`                   <br>
-:heavy_dollar_sign:  &thinsp; `E = Milk x Coffee.2`         <br>
-:heavy_dollar_sign:  &thinsp; `E in 1 Cup x (V = pi.r.2)`   <br>
+:heavy_dollar_sign:  &thinsp; `If,  E = M x pow(C,2)`                   <br>
+:heavy_dollar_sign:  &thinsp; `Let, E = Energy, M = Milk, C = Coffee`   <br>
+
+:heavy_dollar_sign:  &thinsp; `E = Milk x pow (Coffee,2)`               <br>
+
+:heavy_dollar_sign:  &thinsp; `Volume of 1 Cup, V = pi x pow(r,2)`      <br>
+:heavy_dollar_sign:  &thinsp; `E in 1 Cup = E x V`                      <br>
+
 :heavy_dollar_sign:  &thinsp;  `:)`
  
 </details>
