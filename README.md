@@ -39,14 +39,20 @@
      
 ### :hotsprings: `I love Coffee!`
 
+<details>
+
+<summary>Click here to view E = MC.2</summary>
+
 :heavy_dollar_sign:  &thinsp; `If, E = Energy, M = Milk, C = Coffee`        <br>
 :heavy_dollar_sign:  &thinsp; `E = M.C.2`                   <br>
 :heavy_dollar_sign:  &thinsp; `E = Milk x Coffee.2`         <br>
 :heavy_dollar_sign:  &thinsp; `E in 1 Cup x (V = pi.r.2)`   <br>
 :heavy_dollar_sign:  &thinsp;  `:)`
-
+ 
+</details>
 
 ---
+
 
 ### :chart_with_upwards_trend: `My Stats`
 
