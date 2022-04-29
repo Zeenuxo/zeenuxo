@@ -12,7 +12,7 @@
 ### :technologist: `About Me`
 
 :alien:      &thinsp;  A Friendly neighbourhood coder from United Kingdom.  <br>
-:ninja:      &thinsp;  I'm currently working on a "Secret" project.         <br>
+:ninja:      &thinsp;  I'm currently working on a "Secret" project in collab with @Shining-dev <br>
 :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
 :postbox:    &thinsp;  You can reach me on **zeenuxo....@.com**             <br>
 :sparkles:   &thinsp;  Speed-Force is real ! 
