@@ -43,9 +43,7 @@
 
 <summary>Click here to view A Secret.</summary>
 
-:heavy_dollar_sign:  &thinsp; `If,  E = M x C^2`                        <br>
 :heavy_dollar_sign:  &thinsp; `Let, E = Energy, M = Milk, C = Coffee`   <br>
-
 :heavy_dollar_sign:  &thinsp; `E = Milk x Coffee^2`                     <br>
 
 :heavy_dollar_sign:  &thinsp; `Let, V = Volume of a Cup, pi = 3.14, r = radius of a Cup`  <br>
