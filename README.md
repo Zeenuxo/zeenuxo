@@ -41,16 +41,18 @@
 
 <details>
 
-<summary>Click here to view A Secret</summary>
+<summary>Click here to view A Secret.</summary>
 
-:heavy_dollar_sign:  &thinsp; `If,  E = M x pow(C,2)`                   <br>
+:heavy_dollar_sign:  &thinsp; `If,  E = M x C^2`                        <br>
 :heavy_dollar_sign:  &thinsp; `Let, E = Energy, M = Milk, C = Coffee`   <br>
 
-:heavy_dollar_sign:  &thinsp; `E = Milk x pow (Coffee,2)`               <br>
+:heavy_dollar_sign:  &thinsp; `E = Milk x Coffee^2`                     <br>
 
-:heavy_dollar_sign:  &thinsp; `Volume of 1 Cup, V = pi x pow(r,2)`      <br>
-:heavy_dollar_sign:  &thinsp; `E in 1 Cup = E x V`                      <br>
+:heavy_dollar_sign:  &thinsp; `Let, V = Volume of a Cup, pi = 3.14, r = radius of a Cup`  <br>
+:heavy_dollar_sign:  &thinsp; `V = pi x r^2`                                              <br>
+:heavy_dollar_sign:  &thinsp; `E in 1 Cup = E x V`                                        <br>
 
+:heavy_dollar_sign:  &thinsp; `If E>1 = :), E<1 = :(`                                     <br>
 :heavy_dollar_sign:  &thinsp;  `:)`
  
 </details>
@@ -62,7 +64,7 @@
 
 <details>
  
-<summary>Click here to view Stats</summary>
+<summary>Click here to view Stats.</summary>
  
 ![stat](https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3) 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&hide=java,html,tex&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3")
