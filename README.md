@@ -46,8 +46,8 @@
 :heavy_dollar_sign:  &thinsp; `Let, E = Energy, M = Milk, C = Coffee`   <br>
 :heavy_dollar_sign:  &thinsp; `E = Milk x Coffee^2`                     <br>
 
-:heavy_dollar_sign:  &thinsp; `Let, V = Volume of a Cup, pi = 3.14, r = radius of a Cup`  <br>
-:heavy_dollar_sign:  &thinsp; `V = pi x r^2`                                              <br>
+:heavy_dollar_sign:  &thinsp; `Let, V = Volume of a Cup, pi = 3.14, r = radius of a Cup, h = height of a Cup`  <br>
+:heavy_dollar_sign:  &thinsp; `V = pi x r^2 x h`                                          <br>
 :heavy_dollar_sign:  &thinsp; `E in 1 Cup = E x V`                                        <br>
 
 :heavy_dollar_sign:  &thinsp; `If E>1 = :), E<1 = :(`                                     <br>
