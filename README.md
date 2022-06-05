@@ -14,7 +14,7 @@
 :alien:      &thinsp;  A Friendly neighbourhood coder from United Kingdom.  <br>
 :ninja:      &thinsp;  I'm currently working on a "Secret" project in collab with @Shining-dev <br>
 :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
-:postbox:    &thinsp;  You can reach me on **zeenuxo....@.com**             <br>
+:postbox:    &thinsp;  You can reach me on **zeenuxo.me**             <br>
 :sparkles:   &thinsp;  Speed-Force is real ! 
  
  
@@ -24,7 +24,7 @@
 ### :atom: `Languages & Tech` 
 
 :zap:    &thinsp;   Learning about C, Python, and Java after that.                       <br>
-:zap:    &thinsp;   Preparing for Microsoft Azure, Oracle, and AWS via webinars & VMs.   <br>
+:zap:    &thinsp;   Learning about Microsoft Azure, Oracle, and AWS via webinars & VMs.  <br>
 :zap:    &thinsp;   Reading about Linux, Cloud Computing, and AI.                        <br>
 
 
