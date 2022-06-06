@@ -1,4 +1,4 @@
-<img alt="banner" src="https://github.com/Zeenuxo/zeenuxo/blob/main/zeenuxo.png"/>
+<img alt="banner" src="https://github.com/Zeenuxo/zeenuxo/blob/main/banner.png"/>
 <img align="right" margin="300" alt="coder" width=300" height="260" src="https://github.com/Zeenuxo/zeenuxo/blob/main/coder.gif"/>
                                                                                                                    
 ![views](https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic)
