@@ -3,7 +3,7 @@
                                                                                                                    
 ![views](https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic)
 ![follow](https://img.shields.io/github/followers/zeenuxo?color=48d06d&label=Follow%20Me&style=plastic)
-![linkedin](https://img.shields.io/twitter/url?color=48d06d&label=LinkedIn&style=plastic&url=https%3A%2F%2Flinkedin.com%2Fin%2F.....-v-a5020b238)
+![linkedin](https://img.shields.io/twitter/url?color=48d06d&label=LinkedIn&style=plastic&url=https%3A%2F%2Flinkedin.com%2Fin%2F.....-v-a5020b238 srch="https://www.linkedin.com/in/zeenuxo/")
 ![bounty](https://img.shields.io/bountysource/team/zeenuxo/activity?color=48d06d&label=Bounty%20Count&style=plastic)
 
 
@@ -15,7 +15,7 @@
 :ninja:      &thinsp;  I'm currently working on a "Secret" project in collab with @Shining-dev <br>
 :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
 :postbox:    &thinsp;  You can reach me on zeenuxo@gmail.com                <br>
-:sparkles:   &thinsp;  Speed-Force is real ! Check Out [www.zeenuxo.me](http://zeenuxo.me)
+:sparkles:   &thinsp;  Speed-Force is real ! Check Out [zeenuxo.me](http://zeenuxo.me)
  
  
  ---
