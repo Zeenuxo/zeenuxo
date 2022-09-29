@@ -13,7 +13,7 @@
 :alien:      &thinsp;  A Friendly neighbourhood coder from United Kingdom.  <br>
 :ninja:      &thinsp;  I'm currently working on a "Secret" project in collab with geeky friends <br>
 :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
-:postbox:    &thinsp;  You can reach me on zeenuxo.mail@gmail.com                <br>
+:postbox:    &thinsp;  You can reach me on zeenuxo@gmail.com                <br>
 :sparkles:   &thinsp;  Speed-Force is real ! Check Out [zeenuxo.me](http://zeenuxo.me)
  
  
