@@ -29,7 +29,8 @@
 &thinsp; &thinsp; &thinsp; &thinsp; ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d) 
                                     ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=48d06d") &nbsp;&nbsp;
                                     ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=48d06d) 
-                                    ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white&color=48d06d)
+                                    ![Node.js](https://img.shields.io/badge/node.js-2CA5E0?style=flat&logo=node.js&logoColor=white&color=48d06d)
+                                    ![CodePen](https://img.shields.io/badge/codepen-2CA5E0?style=flat&logo=codepen&logoColor=white&color=48d06d)
 
 
 ---
