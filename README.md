@@ -3,7 +3,6 @@
                                                                                                                    
 ![views](https://komarev.com/ghpvc/?username=zeenuxo&label=Profile%20views&color=48d06d&style=plastic)
 ![follow](https://img.shields.io/github/followers/zeenuxo?color=48d06d&label=Follow%20Me&style=plastic)
-![bounty](https://img.shields.io/bountysource/team/zeenuxo/activity?color=48d06d&label=Bounty%20Count&style=plastic)
 
 
 
@@ -11,7 +10,7 @@
 ### :technologist: `About Me`
 
 :alien:      &thinsp;  A Friendly neighbourhood coder from United Kingdom.  <br>
-:ninja:      &thinsp;  I'm currently working on a "Secret" project in collab with geeky friends <br>
+:ninja:      &thinsp;  I'm currently working on a "Secret" project in collaboration with geeky friends <br>
 :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
 :postbox:    &thinsp;  You can reach me on zeenuxo@gmail.com                <br>
 :sparkles:   &thinsp;  Speed-Force is real ! Check Out [zeenuxo.me](http://zeenuxo.me)
@@ -22,9 +21,9 @@
 
 ### :atom: `Languages & Tech` 
 
-:zap:    &thinsp;   Learning about C, Html, CSS, JavaScript, MySQL, PHP. (Next: Python)  <br>
-:zap:    &thinsp;   Learning about Microsoft Azure and AWS via webinars & Summits.       <br>
-:zap:    &thinsp;   Reading about Linux, Cloud Computing, and AI.                        <br>
+:zap:    &thinsp;   Learning about C, Html, CSS, JavaScript, Node.js, (Next: SQL, Python)  <br>
+:zap:    &thinsp;   Learning about Microsoft Azure and AWS via webinars & Summits.         <br>
+:zap:    &thinsp;   Reading about Linux, Cloud Computing, and AI.                          <br>
 
 
 &thinsp; &thinsp; &thinsp; &thinsp; ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d) 
