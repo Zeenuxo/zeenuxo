@@ -13,7 +13,7 @@
 :ninja:      &thinsp;  I'm currently working on a "Secret" project in collaboration with geeky friends <br>
 :feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
 :postbox:    &thinsp;  You can reach me on zeenuxo@gmail.com                <br>
-:sparkles:   &thinsp;  Speed-Force is real ! Check out my [Website: Zeenuxo](https://zeenuxo.github.io)
+:sparkles:   &thinsp;  Speed-Force is real ! Check out my [Website](https://zeenuxo.github.io)
  
  
  ---
