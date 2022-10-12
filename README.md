@@ -21,7 +21,7 @@
 
 ### :atom: `Languages & Tech` 
 
-:zap:    &thinsp;   Html, CSS, JavaScript, Node.js, (Next: SQL, Python)                    <br>
+:zap:    &thinsp;   C, Html, CSS, JavaScript, Node.js, (Next: SQL, Python)                    <br>
 :zap:    &thinsp;   Learning about Microsoft Azure and AWS via webinars & Summits.         <br>
 :zap:    &thinsp;   Reading about Linux, Cloud Computing, and AI.                          <br>
 
