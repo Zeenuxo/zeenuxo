@@ -35,10 +35,11 @@
 
 ---
 
-### 🅱️: `My Blogposts` 
-![My 1st Website using CSS Grid Layout.](https://zeenuxo.hashnode.dev/my-1st-website-using-css-grid-layout)
-![Learning the Basics of Node.js](https://zeenuxo.hashnode.dev/learning-the-basics-of-nodejs)
-![What is a REST API?] ()
+### 🅱️ `My Blogposts` => &thinsp; https://zeenuxo.hashnode.dev/ <br>
+
+🪶   &thinsp; [My 1st Website using CSS Grid Layout.](https://zeenuxo.hashnode.dev/my-1st-website-using-css-grid-layout) <br>
+🪶   &thinsp; [Learning the Basics of Node.js](https://zeenuxo.hashnode.dev/learning-the-basics-of-nodejs)<br>
+🪶   &thinsp; [What is a REST API?](https://zeenuxo.hashnode.dev/) <br>
 
 
 
@@ -57,12 +58,15 @@
 :heavy_dollar_sign:  &thinsp; `V = pi x r^2 x h`                                          <br>
 :heavy_dollar_sign:  &thinsp; `E in 1 Cup = E x V`                                        <br>
 
-:heavy_dollar_sign:  &thinsp; `If E>1 = :), E<1 = :(`                                     <br>
+:heavy_dollar_sign:  &thinsp; `If E>1 = :), E<1 = :(`                                     <br> 
 :heavy_dollar_sign:  &thinsp;  `:)`
  
+☕  &thinsp; <a href="https://www.buymeacoffee.com/zeenuxo" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="30" width="154"></a>
+  
 </details>
 
----
+--- 
 
 
 ### :chart_with_upwards_trend: `My Stats`
@@ -71,9 +75,18 @@
  
 <summary>Click here to view Stats.</summary>
  
-![stat](https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=vue-dark&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3) 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&hide=java,html,tex&title_color=48d06d&text_color=f0f1f1&icon_color=48d06d&bg_color=202636&langs_count=3")
- 
+  
+  <a href="https://github.com/zeenuxo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeenuxo&theme=radical&show_icons=true" />
+</a>
+  
+  
+<!---
+<a href="https://github.com/zeenuxo/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeenuxo&langs_count=8&theme=radical&show_icons=true" />
+  </a>
+-->
+  
 </details>
 
 
