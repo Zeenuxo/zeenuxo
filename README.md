@@ -38,7 +38,7 @@
 
 🪶   &thinsp; [My 1st Website using CSS Grid Layout.](https://zeenuxo.hashnode.dev/my-1st-website-using-css-grid-layout) <br>
 🪶   &thinsp; [Learning the Basics of Node.js](https://zeenuxo.hashnode.dev/learning-the-basics-of-nodejs)<br>
-🪶   &thinsp; [What is a REST API?](https://zeenuxo.hashnode.dev/) <br>
+🪶   &thinsp; [What is a REST API?](https://zeenuxo.hashnode.dev/what-is-a-rest-api) <br>
 
 
 
