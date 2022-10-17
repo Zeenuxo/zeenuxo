@@ -9,9 +9,9 @@
 
 ### :technologist: `About Me`
 
-:alien:      &thinsp;  A Friendly neighbourhood coder from United Kingdom.  <br>
+:alien:      &thinsp;  A passionate and keen Coder from United Kingdom.  <br>
 :ninja:      &thinsp;  I'm currently working on a "Secret" project in collaboration with geeky friends <br>
-:feather:    &thinsp;  I'm a keen Coder. Interested in learning new things. <br>
+:feather:    &thinsp;  Interested in learning new technology. <br>
 :sparkles:   &thinsp;  Speed-Force is real ! Check out my [Website](https://zeenuxo.github.io)
  
  
@@ -20,9 +20,9 @@
 
 ### :atom: `Languages & Tech` 
 
-:zap:    &thinsp;   C, Html, CSS, JavaScript, Node.js, (Next: SQL, Python)                    <br>
-:zap:    &thinsp;   Learning about Microsoft Azure and AWS via webinars & Summits.         <br>
-:zap:    &thinsp;   Reading about Linux, Cloud Computing, and AI.                          <br>
+:zap:    &thinsp;   C, Html, CSS, JavaScript, Node.js, (Next: SQL, Python)                 <br>
+:zap:    &thinsp;   Learning about Microsoft Azure via webinars & virtual summits.         <br>
+:zap:    &thinsp;   Reading about Linux & Cloud Computing.                                 <br>
 
 
 &thinsp; &thinsp; &thinsp; &thinsp; ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d) 
