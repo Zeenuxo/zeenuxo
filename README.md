@@ -10,7 +10,7 @@
 ### :technologist: `About Me`
 
 :alien:      &thinsp;  A passionate and keen Coder from United Kingdom.  <br>
-:ninja:      &thinsp;  I'm currently working on a "Secret" project in collaboration with geeky friends <br>
+:ninja:      &thinsp;  I'm currently working on a "Secret" project in collaboration with geeky friends. <br>
 :feather:    &thinsp;  Interested in learning new technology. <br>
 :sparkles:   &thinsp;  Speed-Force is real ! Check out my [Website](https://zeenuxo.github.io)
  
