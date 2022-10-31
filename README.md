@@ -20,9 +20,9 @@
 
 ### :atom: `Languages & Tech` 
 
-:zap:    &thinsp;   C, Html, CSS, JavaScript, Node.js, (Next: SQL, Python)                 <br>
+:zap:    &thinsp;   C, Html, CSS, JavaScript, Node.js, (Next: Python)                      <br>
 :zap:    &thinsp;   Learning about Microsoft Azure via webinars & virtual summits.         <br>
-:zap:    &thinsp;   Reading about Linux & Cloud Computing.                                 <br>
+:zap:    &thinsp;   Interested in Linux & Cloud Computing.                                 <br>
 
 
 &thinsp; &thinsp; &thinsp; &thinsp; ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d) 
