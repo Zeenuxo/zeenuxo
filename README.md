@@ -10,19 +10,19 @@
 ### :technologist: `About Me`
 
 :alien:      &thinsp;  A passionate and keen Coder from United Kingdom.  <br>
-:ninja:      &thinsp;  I'm currently working on a "Secret" project in collaboration with geeky friends. <br>
-:feather:    &thinsp;  Interested in learning new technology. <br>
-:sparkles:   &thinsp;  Speed-Force is real ! Check out my [Website](https://zeenuxo.github.io)
+:ninja:      &thinsp;  Currently, on a 100 Days of Learning* Challenge together with geeky friends. <br>
+:feather:    &thinsp;  Interested in Hackathons 2023-2024. <br>
+:sparkles:   &thinsp;  Speed-Force is real! Check out my [Website](https://zeenuxo.github.io)
  
  
  ---
 
 
-### :atom: `Languages & Tech` 
+### :atom: `Languages & Tech Stack` 
 
-:zap:    &thinsp;   C, Html, CSS, JavaScript, Node.js, (Next: Python)                      <br>
-:zap:    &thinsp;   Learning about AWS via webinars & virtual summits.         <br>
-:zap:    &thinsp;   Interested in Linux & Cloud Computing.                                 <br>
+:zap:    &thinsp;   C, Html, CSS, JavaScript, (Learning*: Python)                     <br>
+:zap:    &thinsp;   Learning about AWS via webinars & virtual summits.                <br>
+:zap:    &thinsp;   Interested in Linux, Cloud Computing & Kong API / Insomnia        <br>
 
 
 &thinsp; &thinsp; &thinsp; &thinsp; ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=48d06d) 
